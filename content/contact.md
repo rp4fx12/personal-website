@@ -7,4 +7,4 @@ menu:
 
 ---
 
-{{< form-contact action="https://formspree.io/rohan.prasad.1200@capitalone.com"  >}}
+{{< form-contact action="https://formspree.io/rohan.prasad.1200@gmail.com"  >}}
