@@ -2,3 +2,7 @@
 
 #To Remove
 /content/about/_index.md
+
+.DS_Store
+content/blog
+static/.DS_Store
