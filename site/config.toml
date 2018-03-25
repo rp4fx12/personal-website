@@ -1,5 +1,7 @@
 title = "Rohan Prasad"
-baseURL = "https://example.com"
+baseURL = "//localhost:8080/"
+canonifyURLs = false
+relativeURLs = true
 languageCode = "en-us"
 theme = "ananke"
 
@@ -23,7 +25,7 @@ enableRobotsTXT = true
   # instagram = "https://www.instagram.com/brohanprasquad/"
   # youtube = ""
   github = "https://github.com/rp4fx12"
-  # linkedin = ""
+  linkedin = "https://linkedin.com/in/rohanpra"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-near-white"
   featured_image = "/images/banner.jpg"
