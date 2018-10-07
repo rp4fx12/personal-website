@@ -1,7 +1,11 @@
 /static/images/funny-pic.jpg
-
-#To Remove
 /content/about/_index.md
 
 .DS_Store
 static/.DS_Store
+
+IDE
+*.swp
+
+Builds
+site/public/
